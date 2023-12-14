@@ -3,6 +3,7 @@ About r-rmatio-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmatio-feedstock/blob/main/LICENSE.txt)
 
+
 About r-rmatio
 --------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/stewid/rmatio
 Package license: GPL-3.0-only
 
 Summary: Read and write 'Matlab' MAT files from R. The 'rmatio' package supports reading MAT version 4, MAT version 5 and MAT compressed version 5. The 'rmatio' package can write version 5 MAT files and version 5 files with variable compression.
+
 About r-rmatio
 --------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
