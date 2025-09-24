@@ -37,7 +37,7 @@ requirements:
   host:
     - r-base
     - r-matrix
-    - libzlib  # [unix]
+    - zlib
   run:
     - r-base
     - r-matrix
